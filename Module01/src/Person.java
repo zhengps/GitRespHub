@@ -7,4 +7,6 @@
 public class Person {
     private int age;//年龄
     private String name;//姓名
+
+    private int weight;//重量
 }
