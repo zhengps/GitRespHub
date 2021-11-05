@@ -8,4 +8,5 @@ public class Person {
     private int age;//年龄
     private String name;//姓名
     private int height;//身高
+    private int phone;//个人电话
 }
