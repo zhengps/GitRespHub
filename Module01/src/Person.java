@@ -9,4 +9,5 @@ public class Person {
     private String name;//姓名
 
     private int weight;//重量
+    private int height;//身高
 }
