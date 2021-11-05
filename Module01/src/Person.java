@@ -7,7 +7,7 @@
 public class Person {
     private int age;//年龄
     private String name;//姓名
-
     private int weight;//重量
     private int height;//身高
+    private String address;//家庭住址
 }
